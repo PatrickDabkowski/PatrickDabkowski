@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PatrickDabkowski
 - 👀 I’m interested in ...running, swimming and reading
-- 🌱 I’m currently learning ... basics of machine larning and neutral networks
+- 🌱 I’m currently learning ... basics of Machine Larning and Neutral Networks in Python language
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
