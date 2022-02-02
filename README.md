@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PatrickDabkowski
-- 👀 I’m interested in ... programming, running, swimming and reading
-- 🌱 I’m currently learning ... basics of Machine Larning in Python language and meta nad concurrent programming
+- 👀 I’m interested in ... python, ML, Computer Vision, Process Dynamics
+- 🌱 I’m currently learning ... basics of Machine Larning in Python language and concurrent programming
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
