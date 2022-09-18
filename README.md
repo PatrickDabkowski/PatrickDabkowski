@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PatrickDabkowski
-- 👀 I’m interested in ... Python, Machine Learning, Computer Vision, Process Dynamics
-- 🌱 I’m currently learning ... basics of Machine Larning in Python language 
+- 👀 I’m interested in ... Python and Machine Learning
+- 🌱 I’m currently learning ...  Machine Larning in Python language 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
