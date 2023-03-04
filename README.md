@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PatrickDabkowski
 - 👀 I’m interested in ... Python and Machine Learning
-- 🌱 I’m currently learning ...  Machine Larning, Python language, B&R industrial controllers 
+- 🌱 I’m currently learning ...  Machine Larning, Algorithms, Python language
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
