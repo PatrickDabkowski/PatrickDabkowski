@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @PatrickDabkowski
-- 👀 I’m interested in ... Python, Machine Learning, Data Science and Algorithms
+- 👀 I’m interested in ...  Machine Learning, Computer Vision, Programming and Algorithms
 - 🌱 I’m currently learning ...  Machine Larning, Deep Learning, Cloud Computing, Computer Vision
