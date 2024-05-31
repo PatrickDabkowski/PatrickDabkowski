@@ -1,7 +1,7 @@
 <div align="center">Hi, I’m Patryk </div>
 <br>
 <div align="center">
-  Machine Learning, Deep Learning and Data Science. I keep extending and sharing knowledge
+  Machine Learning, Deep Learning and Data Science
 </div>
 <br>
 <div align="center">Languages and Tools:</div>
