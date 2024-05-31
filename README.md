@@ -1,4 +1,4 @@
-<h1 align="center">Hi Hi, I’m Patryk Dabkowski Nico</h1>
+<h1 align="center">Hi, I’m Patryk Dabkowski</h1>
 <h3 align="center">Machine Learning, Deep Learning and Data Science. I keep extend and share knowledge</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
