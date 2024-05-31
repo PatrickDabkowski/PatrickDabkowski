@@ -4,9 +4,9 @@
   Machine Learning, Deep Learning and Data Science. I keep extending and sharing knowledge
 </div>
 <br>
-<h3 align="center">Languages and Tools:</h3>
+<div align="center">Languages and Tools:</div>
 <br>
-<p align="center" style="display: flex; flex-wrap: wrap;">
+<div align="center" style="display: flex; flex-wrap: wrap;">
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 20px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
@@ -22,5 +22,5 @@
   <a href="https://numpy.org/" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 20px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
   </a> 
-</p>
+</div>
 
