@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I’m Patryk Dabkowski</h1>
-<align="center">Machine Learning, Deep Learning and Data Science. I keep extend and share knowledge<>
+
+<div align="center">
+  Machine Learning, Deep Learning and Data Science. I keep extending and sharing knowledge
+</div>
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
